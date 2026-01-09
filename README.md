@@ -1,37 +1,82 @@
-# About Me
+# Hi — I'm Abimbola Diya 👋  
+Machine Learning & Python Backend Engineer building production-grade systems that solve real-world problems.
 
-Hey there! 👋 Welcome to my personal README! I'm super excited to share a bit about myself, my interests, and my journey with you. Let’s dive in! 🌊
-
-## Who Am I?
-
-I’m **Abimbola Ogundiya**, a curious mind navigating the thrilling world of **Chemical Engineering** at **Lagos State University**. 🎓 My friends call me a tech enthusiast, and I wear that title with pride! 💻 I’m on a quest to master the art of **coding**, all while juggling my studies and diving into the realm of **machine learning**. 🚀
-
-## What I Do
-
-- **Currently Learning**: I'm diving deep into **backend development** and exploring the fascinating world of **machine learning**. It’s like discovering a new universe! 🌌
-- **Skills**: I have a knack for coding (especially in Python 🐍), problem-solving, and I love capturing the world through my lens. 📸 Photography is my creative outlet!
-
-## My Interests
-
-Here’s what gets me excited:
-
-- **Photography**: I love capturing moments, whether it’s a breathtaking landscape or candid shots of friends. 🌅
-- **Solving Problems**: I thrive on challenges! Whether it's a tough coding problem or a tricky puzzle, I enjoy finding solutions. 🧩
-- **Reading Books**: I’m a bookworm at heart! From tech manuals to thrilling novels, I love getting lost in a good story. 📖✨
-- **Coding**: There’s something magical about turning ideas into reality through code. 🪄 I’m always looking for new projects to tackle!
-
-## Fun Facts
-
-- Did you know I entered university at age **15**? 😹 Talk about an early start!
-- I’ve got a dream of combining my engineering knowledge with tech to innovate and make a difference in the world. 🌍💡
-
-## Let's Connect!
-
-I’m always up for a chat, whether it’s about tech, photography, or life in general. Feel free to reach out! 🤗
-
-- **Email**: abimbolaogundiya2@gmail.com
-- **Pronouns**: He
+I design **reliable**, **maintainable**, and **scalable** backend services with:
+- 🐍 Python (FastAPI, Django, Flask)
+- 🧱 Databases (PostgreSQL, MySQL, Redis)
+- ☁️ Cloud & DevOps (AWS, Docker, CI/CD)
+- 🧠 ML/AI Tooling (PyTorch, TensorFlow, OpenCV, scikit-learn)
+- 🌐 Frontend Familiarity: TypeScript · React (for integrations & tooling)
 
 ---
 
-*Last updated: March 2025*
+## 🔭 Currently Shipping
+**HydraLink** — an AI-powered environmental tool that detects plastic buildup in Lagos drainages and estimates value-to-recycling.  
+→ Goal: reduce flooding by **up to 60%**, incentivize recycling, and build data-driven environmental governance.  
+→ Backend is optimized for high-throughput image processing and low DB overhead.  
+Repo: https://github.com/Abimbola-diya/HydraLink
+
+---
+
+## 🧩 Tech Snapshot
+- 🧰 **Core Stack:** Python · FastAPI · Django · PostgreSQL · MySQL · AWS · Docker
+- 🧠 **ML/AI:** PyTorch · TensorFlow · scikit-learn · OpenCV · computer vision pipelines
+- 🌐 **Aux Tools:** TypeScript · React · Node
+- 🗂 **Other:** Celery · Redis · RabbitMQ · REST APIs · CI/CD
+
+---
+
+## 🧠 What I’m Looking For
+Backend or Machine Learning roles where I can:
+- architect APIs & distributed systems
+- deploy ML models into production
+- improve system reliability & performance
+
+---
+
+## 🏗 Top Projects (with real-world application)
+**1. HydraLink**  
+Full backend system + computer vision pipeline to detect plastic waste, estimate prices, and route data to dashboards.  
+- Image-to-price CV model
+- Scalable FastAPI backend
+- Optimized DB writes to prevent overload  
+Repo: https://github.com/Abimbola-diya/HydraLink  
+
+**2. LaptopMedic**  
+Automates computer diagnostics + connects users to technicians.  
+- AI-assisted troubleshooting
+- Knowledge-base backend
+- Technician service marketplace  
+Repos:  
+https://github.com/Abimbola-diya/ent_project  
+https://github.com/Abdul-luh/laptopMedic  
+
+**3. Nexs Project**  
+Trained a model to detect **kicks in oil wells** and trigger alert systems within minutes — safety-critical pipeline.  
+- ML model training & evaluation
+- Real-time inference connected to a web dashboard  
+Repo: https://github.com/Abimbola-diya/nexs  
+
+---
+
+## 🧩 What I Bring
+- Production mindset: I ship features that solve user problems.
+- Strong engineering communication (docs, architecture, PRs).
+- Experience taking ML models from notebooks → running services.
+- Ability to learn fast & adapt to new environments.
+
+---
+
+## 📫 Contact
+📩 Email: **abimbolaogundiya2@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/abimbola-diya-283985310/  
+
+---
+
+## 📌 Pinned Repos
+(These reflect my best relevant work — see repo READMEs for details)
+
+- https://github.com/Abimbola-diya/HydraLink
+- https://github.com/Abdul-luh/hydralink
+- https://github.com/Abimbola-diya/ent_project
+- https://github.com/Abdul-luh/laptopMedic
